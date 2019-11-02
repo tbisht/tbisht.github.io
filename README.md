@@ -1,2 +1,2 @@
 # tbisht.github.io
-# Intial set up 
+Initial set up 
