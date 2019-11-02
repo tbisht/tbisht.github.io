@@ -3,7 +3,12 @@ title: "tbisht's website"
 output:
   html_document:
     theme: spacelab
+    toc: true
+    toc_depth: 3
+    toc_float: true
 ---
+
+![](img/tbisht.JPG){width=100px}
 
 ## About
 
@@ -32,3 +37,5 @@ ied or where you've worked.
 ## Contact
 
 * [youremail@email](mailto:youremail@email)
+
+<a href='https://clustrmaps.com/site/1a5cd'  title='Visit tracker'><img src='http://clustrmaps.com/map_v2.png?cl=ffffff&w=a&t=n&d=hnA7HWDcygUV__H-Pg5Npl9yDzHZ983W1TmLzj1XMf8'/></a>
