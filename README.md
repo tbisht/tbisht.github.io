@@ -1,2 +1,2 @@
-# tbisht.github.io
+tbisht.github.io
 Initial set up 
