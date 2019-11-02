@@ -1,3 +1,10 @@
+---
+title: "tbisht's website"
+output:
+  html_document:
+    theme: spacelab
+---
+
 ## About
 
 Describe who you are. For example, what you are currently studying.
