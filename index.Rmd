@@ -1,30 +1,27 @@
----
-title: "tbisht website"
-author: "ts"
-date: "03/11/2019"
-output: html_document
----
+## About
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+Describe who you are. For example, what you are currently studying.
 
-## R Markdown
+Summarize your trajectory. You could mention what you've done. Like what you've stud\
+ied or where you've worked.
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+## Interests
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+* Interest 1
+* Interest 2
+* etc
 
-```{r cars}
-summary(cars)
-```
+## Projects
 
-## Including Plots
+* List some of your recent projects
+* You could include this website as a project!
 
-You can also embed plots, for example:
+## Profiles 
 
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
+* [LinkedIn](https://www.linkedin.com/in/yourprofile/)
+* ...
+* [GitHub](http://github.com/username)
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+## Contact
+
+* [youremail@email](mailto:youremail@email)
